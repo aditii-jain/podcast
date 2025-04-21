@@ -56,7 +56,7 @@ export default function Home() {
             <HostCard
               name="Annie"
               image="/images/annie.jpeg"
-              bio="Environmental scientist and avid golfer. Annie explores the intersection of recreational spaces and environmental impact, with a particular focus on sustainable practices in golf course management and how technology can help create more eco-friendly recreational spaces."
+              bio="Hi! My name is Annie Zhang and I’m a freshman majoring in PR and Advertising with a minor in Biopharmaceutical Business. Growing up playing golf exposed me to not only the good side of this sport but also how environmentally damaging it is. I’ve always been interested in how technology is shaping our world today and also how it is affecting golf course maintenance and sustainability."
             />
           </div>
         </div>
